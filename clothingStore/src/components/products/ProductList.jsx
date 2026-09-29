@@ -23,7 +23,7 @@ export default function ProductList() {
       <div className="mx-auto max-w-4xl lg:max-w-7xl">
         <h2
           id="products-heading"
-          className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-black tracking-tight leading-none uppercase"
+          className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-black tracking-tight leading-none uppercase text-center mt-15 mb-10"
         >
           NEW ARRIVALS
         </h2>
